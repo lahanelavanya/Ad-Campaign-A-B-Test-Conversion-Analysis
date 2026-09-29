@@ -216,11 +216,9 @@ marketing-ab-testing-ad-vs-psa/
 ├── requirements.txt
 ├── .gitignore
 │
-├── notebooks/
-│   └── ab_test_ad_campaign.ipynb
+├── ab_test_ad_campaign.ipynb
 │
-├── data/
-│   └── marketing_AB.csv
+├── marketing_AB.csv
 │
 └── figures/
     └── ...
